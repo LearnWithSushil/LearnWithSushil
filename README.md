@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sushil Kumar
-- 👀 I’m interested in Quality Engineering, Automation, Netorking, AWS, Security, DevOps, Leadership
+- 👀 I’m interested in Leadership, Cloud Security, Full stack development, Quality Engineering, Automation, Netorking, AWS, DevOps
 - 🌱 I’m currently pursuing masters in Data Science and Machine Learning from BITS-Pilani
 - 💞️ I’m looking to collaborate on Python, AI/ML
 - 📫 How to reach me : https://www.linkedin.com/in/ksushil/
